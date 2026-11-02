@@ -1,0 +1,680 @@
+{
+ "updated": "2026-11-02",
+ "source": "https://github.com/basketballacademic/nsf-research",
+ "items": {
+  "k_latconv": {
+   "hyp": "Omuz genişliğinin 1–1,5 katı tutuş, avuçlar öne ya da nötr. Barı yüzün önünden üst göğse çek; tepede kolları tam uzatıp kanadı ger.",
+   "str": "Orta genişlikte tutuş: dar ve orta tutuşta 6RM yükü geniş tutuştan daha yüksek.",
+   "ev": [
+    {
+     "t": "Andersen 2014",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Andersen+2014+grip+width+lat+pull-down"
+    },
+    {
+     "t": "Lusk 2010",
+     "u": "https://pure.psu.edu/en/publications/grip-width-and-forearm-orientation-effects-on-muscle-activity-dur/"
+    },
+    {
+     "t": "Lehman 2004",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC449729"
+    }
+   ],
+   "note": "Tutuş genişliği kanat aktivasyonunu az değiştiriyor; avuçların öne bakması kanadı biraz daha çok çalıştırıyor. Bulgular EMG'ye dayanıyor."
+  },
+  "latpull_pull": {
+   "hyp": "Omuz genişliğinin 1–1,5 katı tutuş, avuçlar öne ya da nötr. Barı yüzün önünden üst göğse çek; tepede kolları tam uzatıp kanadı ger.",
+   "str": "Orta genişlikte tutuş: dar ve orta tutuşta 6RM yükü geniş tutuştan daha yüksek.",
+   "ev": [
+    {
+     "t": "Andersen 2014",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Andersen+2014+grip+width+lat+pull-down"
+    },
+    {
+     "t": "Lusk 2010",
+     "u": "https://pure.psu.edu/en/publications/grip-width-and-forearm-orientation-effects-on-muscle-activity-dur/"
+    },
+    {
+     "t": "Lehman 2004",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC449729"
+    }
+   ],
+   "note": "Tutuş genişliği kanat aktivasyonunu az değiştiriyor; avuçların öne bakması kanadı biraz daha çok çalıştırıyor. Bulgular EMG'ye dayanıyor."
+  },
+  "k_rowing": {
+   "hyp": "Dar ya da nötr tutuş, dirsekler gövdeye yakın: kanat odaklı. Önde kürek kemiklerinin öne kaymasına izin vererek tam esneme.",
+   "str": "Aynı yol, ağır yük; göğüs pedi beli korur.",
+   "ev": [
+    {
+     "t": "Padovan 2025",
+     "u": "https://jhk.termedia.pl/High-Density-Surface-Electromyography-Excitation-of-Prime-Movers-in-the-Narrow-vs,209550,0,2.html"
+    },
+    {
+     "t": "Lehman 2004",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC449729"
+    }
+   ],
+   "note": "Dar tutuş kanadı, geniş tutuş trapezi ve yan omzu daha çok çalıştırdı. Kürek kemiklerini bilinçli sıkmak orta trapez aktivitesini değiştirmedi."
+  },
+  "k_lowrow": {
+   "hyp": "Dar ya da nötr tutuş, dirsekler gövdeye yakın: kanat odaklı. Önde kürek kemiklerinin öne kaymasına izin vererek tam esneme.",
+   "str": "Aynı yol, ağır yük; göğüs pedi beli korur.",
+   "ev": [
+    {
+     "t": "Padovan 2025",
+     "u": "https://jhk.termedia.pl/High-Density-Surface-Electromyography-Excitation-of-Prime-Movers-in-the-Narrow-vs,209550,0,2.html"
+    },
+    {
+     "t": "Lehman 2004",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC449729"
+    }
+   ],
+   "note": "Dar tutuş kanadı, geniş tutuş trapezi ve yan omzu daha çok çalıştırdı. Kürek kemiklerini bilinçli sıkmak orta trapez aktivitesini değiştirmedi."
+  },
+  "row_seated": {
+   "hyp": "Dar ya da nötr tutuş, dirsekler gövdeye yakın: kanat odaklı. Önde kürek kemiklerinin öne kaymasına izin vererek tam esneme.",
+   "str": "Aynı yol, ağır yük; göğüs pedi beli korur.",
+   "ev": [
+    {
+     "t": "Padovan 2025",
+     "u": "https://jhk.termedia.pl/High-Density-Surface-Electromyography-Excitation-of-Prime-Movers-in-the-Narrow-vs,209550,0,2.html"
+    },
+    {
+     "t": "Lehman 2004",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC449729"
+    }
+   ],
+   "note": "Dar tutuş kanadı, geniş tutuş trapezi ve yan omzu daha çok çalıştırdı. Kürek kemiklerini bilinçli sıkmak orta trapez aktivitesini değiştirmedi."
+  },
+  "k_highrow": {
+   "hyp": "Geniş tutuş, dirsekler gövdeden 60–90° açık: trapez, arka omuz ve yan omuz öne çıkar.",
+   "str": "Aynı yol, kontrollü ağır yük.",
+   "ev": [
+    {
+     "t": "Padovan 2025",
+     "u": "https://jhk.termedia.pl/High-Density-Surface-Electromyography-Excitation-of-Prime-Movers-in-the-Narrow-vs,209550,0,2.html"
+    }
+   ],
+   "note": "Dirsek açıldıkça iş kanattan üst sırta kayar."
+  },
+  "k_powerrow": {
+   "hyp": "Göğüs pede yaslı, sırt düz; altta kolları tam uzat. Dirsek yakın = kanat, açık = üst sırt.",
+   "str": "Ağır yük için uygun; göğsü pedden kaldırıp momentum kullanma.",
+   "ev": [
+    {
+     "t": "Padovan 2025",
+     "u": "https://jhk.termedia.pl/High-Density-Surface-Electromyography-Excitation-of-Prime-Movers-in-the-Narrow-vs,209550,0,2.html"
+    }
+   ],
+   "note": "Öneri row çalışmalarından çıkarım."
+  },
+  "k_shrug": {
+   "hyp": "Altta omuzları tam aşağı bırak (trapez gerilsin), tepede 1 sn tut; omuz çevirme yok.",
+   "str": "Ağır yük, kısa yol.",
+   "ev": [
+    {
+     "t": "Wolf 2023 (meta-analiz)",
+     "u": "https://doi.org/10.47206/ijsc.v3i1.182"
+    }
+   ],
+   "note": "Shrug için kontrollü bir hipertrofi çalışması bulunamadı; öneri genel hareket açıklığı ilkesine dayanıyor."
+  },
+  "k_vchest": {
+   "hyp": "Tutamaklar göğüs ortasında; altta göğüs gerilene kadar geri gel, kürek kemikleri pede basılı. Nötr tutuş üst göğsü biraz daha çalıştırır.",
+   "str": "Tam ROM, ağır yük; bench press'e göre daha az denge gerekir.",
+   "ev": [
+    {
+     "t": "Muyor 2023",
+     "u": "https://johk.pl/wp-content/uploads/2023/04/jhk-2023-87-03.pdf"
+    },
+    {
+     "t": "Rodríguez-Ridao 2020",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/33049982/"
+    }
+   ],
+   "note": "Düz itme orta ve alt göğüs için daha iyi ve daha ağır yüke izin veriyor."
+  },
+  "k_ichest": {
+   "hyp": "Sehpa yaklaşık 30°; 45°'yi geçme. Altta tam esneme.",
+   "str": "15–30° arası; eğim arttıkça kaldırılan yük düşer (1RM 0°'de 81 kg, 60°'de 52 kg).",
+   "ev": [
+    {
+     "t": "Rodríguez-Ridao 2020",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/33049982/"
+    },
+    {
+     "t": "Chaves 2020",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7449336"
+    }
+   ],
+   "note": "Üst göğüs en yüksek aktivasyonu 30°'de gösterdi. 8 haftalık bir çalışmada eğimli bench üst göğüste daha çok kalınlaşma sağladı."
+  },
+  "pecdeck_fly": {
+   "hyp": "Kolları omuz ekseninin biraz gerisine kadar aç (göğüs gerilsin, omuz zorlanmasın). Esneme bölümünde kısmi tekrarlar iyi bir sonlandırma.",
+   "str": "Güç için uygun bir hareket değil.",
+   "ev": [
+    {
+     "t": "Wolf 2023 (meta-analiz)",
+     "u": "https://doi.org/10.47206/ijsc.v3i1.182"
+    },
+    {
+     "t": "Kassiano 2023 (derleme)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/36662126/"
+    },
+    {
+     "t": "Strey 2026 (meta-analiz)",
+     "u": "https://doi.org/10.1007/s11332-025-01586-5"
+    }
+   ],
+   "note": "Kası uzun boyda yüklemek genel olarak daha çok büyüme sağlıyor.",
+   "new": "8 çalışmalık yeni bir meta-analiz: kas uzunken yapılan kısmi tekrarlar, kas kısayken yapılanlardan daha çok büyüme sağladı (kasın orta ve alt bölümünde de).",
+   "updated": "2026-11-02"
+  },
+  "k_deltpress": {
+   "hyp": "Tutamaklar omuz hizasından başlasın; sırtlık dike yakın (75–90°). Altta tam in.",
+   "str": "Oturarak yapılan pres ayakta yapılandan daha ağır yük kaldırmaya izin verir.",
+   "ev": [
+    {
+     "t": "Saeterbakken & Fimland 2013",
+     "u": "https://www.bisp-surf.de/Record/PU201311007613"
+    }
+   ],
+   "note": "En çok denge isteyen varyasyon (ayakta, dambılla) en çok aktivasyonu ama en düşük 1RM'i verdi."
+  },
+  "shoulder_press": {
+   "hyp": "Tutamaklar omuz hizasından başlasın; sırtlık dike yakın (75–90°). Altta tam in.",
+   "str": "Oturarak yapılan pres ayakta yapılandan daha ağır yük kaldırmaya izin verir.",
+   "ev": [
+    {
+     "t": "Saeterbakken & Fimland 2013",
+     "u": "https://www.bisp-surf.de/Record/PU201311007613"
+    }
+   ],
+   "note": "En çok denge isteyen varyasyon (ayakta, dambılla) en çok aktivasyonu ama en düşük 1RM'i verdi."
+  },
+  "k_lateral": {
+   "hyp": "Omuz hizasına kadar kaldır, üstüne çıkma. Kol aşağıdayken de yük kalsın; makine ve kablo bunu sağlar.",
+   "str": "Güç hareketi değil; 10–20 tekrar daha uygun.",
+   "ev": [
+    {
+     "t": "Larsen 2025",
+     "u": "https://doi.org/10.3389/fphys.2025.1611468"
+    }
+   ],
+   "note": "Kablo ve dambıl lateral raise antrenmanlı kişilerde yan omuzda benzer kalınlaşma sağladı (8 haftada %3,3–4,6)."
+  },
+  "k_backdelt": {
+   "hyp": "Nötr tutuş, kollar omuz hizasında; hareketi kürek sıkarak değil, kolu açarak yap.",
+   "str": "Güç hareketi değil.",
+   "ev": [
+    {
+     "t": "Schoenfeld 2013",
+     "u": "https://doi.org/10.1519/JSC.0b013e318281e1e9"
+    }
+   ],
+   "note": "Nötr tutuş arka omzu ve infraspinatus'u, avuçların aşağı baktığı tutuşa göre daha çok çalıştırdı."
+  },
+  "pecdeck_rear": {
+   "hyp": "Nötr tutuş, kollar omuz hizasında; hareketi kürek sıkarak değil, kolu açarak yap.",
+   "str": "Güç hareketi değil.",
+   "ev": [
+    {
+     "t": "Schoenfeld 2013",
+     "u": "https://doi.org/10.1519/JSC.0b013e318281e1e9"
+    }
+   ],
+   "note": "Nötr tutuş arka omzu ve infraspinatus'u, avuçların aşağı baktığı tutuşa göre daha çok çalıştırdı."
+  },
+  "k_curl": {
+   "hyp": "Altta kolu neredeyse tam düzelt; alt yarı (0–70° dirsek bükümü) en verimli bölüm. Biceps'in alt kısmını ve brachialis'i öne çıkarır.",
+   "str": "Tam ROM; alt yarıda çalışmak tam ROM 1RM'ini de artırır.",
+   "ev": [
+    {
+     "t": "Pedrosa 2023",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9960616"
+    },
+    {
+     "t": "Kobayashi 2026",
+     "u": "https://doi.org/10.1080/02640414.2026.2741751"
+    }
+   ],
+   "note": "Preacher tipi curl biceps'in alt kısmını, brachialis'i ve brachioradialis'i daha çok büyütüyor."
+  },
+  "cable_curl": {
+   "hyp": "Kablonun çekme noktası vücudun arkasında kalsın (kol hafif geride): biceps'in üst kısmı daha çok gerilir.",
+   "str": "Tam ROM.",
+   "ev": [
+    {
+     "t": "Kassiano 2025 (özet)",
+     "u": "https://sci-sport.com/en/effects-of-incline-and-preacher-curls-on-regional-hypertrophy-and-strength-266/"
+    },
+    {
+     "t": "Kobayashi 2026",
+     "u": "https://doi.org/10.1080/02640414.2026.2741751"
+    }
+   ],
+   "note": "Kol geride yapılan (eğimli) curl biceps'in üst kısmını daha çok büyüttü; preacher ile birlikte kullanmak mantıklı."
+  },
+  "k_french": {
+   "hyp": "Kollar baş üstünde, altta dirsek yaklaşık 90°'ye kadar bükülsün.",
+   "str": "Pushdown ile benzer güç artışı.",
+   "ev": [
+    {
+     "t": "Maeo 2022",
+     "u": "https://doi.org/10.1080/17461391.2022.2100279"
+    }
+   ],
+   "note": "Baş üstü uzatmada triceps'in uzun başı %28,5, pushdown'da %19,6 büyüdü."
+  },
+  "cable_pushdown": {
+   "hyp": "Dirsekler gövdenin yanında sabit; üstte dirseği tam bük (triceps gerilsin), altta tam kilit. Baş üstü bir hareketle birlikte kullan.",
+   "str": "Tam ROM; ağır yük için iyi.",
+   "ev": [
+    {
+     "t": "Maeo 2022",
+     "u": "https://doi.org/10.1080/17461391.2022.2100279"
+    }
+   ],
+   "note": "Pushdown baş üstü uzatmaya göre triceps'i daha az büyüttü; güç artışı benzerdi."
+  },
+  "legpress_press": {
+   "hyp": "Kalçan minderden kalkmadan inebildiğin en derin noktaya in. Ayaklar yüksek = kalça ve arka bacak, alçak = ön bacak.",
+   "str": "Tam ROM; dizleri tepede kilitleme.",
+   "ev": [
+    {
+     "t": "Kubo 2019",
+     "u": "https://doi.org/10.1007/s00421-019-04181-y"
+    }
+   ],
+   "note": "Derin squat kalça kasını yarım squata göre yaklaşık üç kat büyüttü (%6,7'ye %2,2); öneri bu bulgudan çıkarım."
+  },
+  "k_pendulum": {
+   "hyp": "Tam derinlik (~140° diz bükümü, kalça dizin altına).",
+   "str": "Tam ROM'da güç en çok artar; yarım tekrar yalnızca o açıda güçlendirir.",
+   "ev": [
+    {
+     "t": "Kubo 2019",
+     "u": "https://doi.org/10.1007/s00421-019-04181-y"
+    },
+    {
+     "t": "Pallarés 2021",
+     "u": "https://doi.org/10.1111/sms.14006"
+    }
+   ],
+   "note": "Tam squat kalça ve adduktorları yarım squata göre çok daha çok büyüttü; arka bacak iki grupta da büyümedi."
+  },
+  "smith_squat": {
+   "hyp": "Tam derinlik (~140° diz bükümü, kalça dizin altına).",
+   "str": "Tam ROM'da güç en çok artar; yarım tekrar yalnızca o açıda güçlendirir.",
+   "ev": [
+    {
+     "t": "Kubo 2019",
+     "u": "https://doi.org/10.1007/s00421-019-04181-y"
+    },
+    {
+     "t": "Pallarés 2021",
+     "u": "https://doi.org/10.1111/sms.14006"
+    }
+   ],
+   "note": "Tam squat kalça ve adduktorları yarım squata göre çok daha çok büyüttü; arka bacak iki grupta da büyümedi."
+  },
+  "k_legext": {
+   "hyp": "Hareketin ilk yarısı (diz ~100°'den ~65°'ye, kas uzun) en verimli bölüm; set sonunda bu aralıkta kısmi tekrarlar ekle. Sırtlığı geriye yatırmak rektus femorisi daha çok gerer.",
+   "str": "Tam ROM.",
+   "ev": [
+    {
+     "t": "Pedrosa 2022",
+     "u": "https://doi.org/10.1080/17461391.2021.1927199"
+    },
+    {
+     "t": "Kassiano 2023 (derleme)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/36662126/"
+    },
+    {
+     "t": "Strey 2026 (meta-analiz)",
+     "u": "https://doi.org/10.1007/s11332-025-01586-5"
+    }
+   ],
+   "note": "İlk yarıyla çalışan grup, ön bacağın alt bölümünde tam ROM dahil tüm gruplardan daha çok büyüdü.",
+   "new": "8 çalışmalık yeni bir meta-analiz: kas uzunken yapılan kısmi tekrarlar, kas kısayken yapılanlardan daha çok büyüme sağladı (kasın orta ve alt bölümünde de).",
+   "updated": "2026-11-02"
+  },
+  "legext_ext": {
+   "hyp": "Hareketin ilk yarısı (diz ~100°'den ~65°'ye, kas uzun) en verimli bölüm; set sonunda bu aralıkta kısmi tekrarlar ekle. Sırtlığı geriye yatırmak rektus femorisi daha çok gerer.",
+   "str": "Tam ROM.",
+   "ev": [
+    {
+     "t": "Pedrosa 2022",
+     "u": "https://doi.org/10.1080/17461391.2021.1927199"
+    },
+    {
+     "t": "Kassiano 2023 (derleme)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/36662126/"
+    },
+    {
+     "t": "Strey 2026 (meta-analiz)",
+     "u": "https://doi.org/10.1007/s11332-025-01586-5"
+    }
+   ],
+   "note": "İlk yarıyla çalışan grup, ön bacağın alt bölümünde tam ROM dahil tüm gruplardan daha çok büyüdü.",
+   "new": "8 çalışmalık yeni bir meta-analiz: kas uzunken yapılan kısmi tekrarlar, kas kısayken yapılanlardan daha çok büyüme sağladı (kasın orta ve alt bölümünde de).",
+   "updated": "2026-11-02"
+  },
+  "k_legcurl": {
+   "hyp": "Oturarak leg curl, yatarak yapılandan daha çok büyüme sağlar; gövdeyi hafif öne eğmek arka bacağı daha da gerer.",
+   "str": "İki varyasyon da güç için işe yarar.",
+   "ev": [
+    {
+     "t": "Maeo 2021",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7969179/"
+    }
+   ],
+   "note": "12 haftada arka bacak hacmi oturarak çalışan bacakta %14, yatarak çalışanda %9 arttı."
+  },
+  "legcurl_curl": {
+   "hyp": "Oturarak leg curl, yatarak yapılandan daha çok büyüme sağlar; gövdeyi hafif öne eğmek arka bacağı daha da gerer.",
+   "str": "İki varyasyon da güç için işe yarar.",
+   "ev": [
+    {
+     "t": "Maeo 2021",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7969179/"
+    }
+   ],
+   "note": "12 haftada arka bacak hacmi oturarak çalışan bacakta %14, yatarak çalışanda %9 arttı."
+  },
+  "legpress_calf": {
+   "hyp": "Altta topuğu tam aşağı bırak, 1 sn bekle; gerilmiş yarı en verimli kısım, tükenince bu bölümde kısmi tekrarlarla devam et. Dizler düz kalsın.",
+   "str": "Tam ROM.",
+   "ev": [
+    {
+     "t": "Kassiano 2023",
+     "u": "https://doi.org/10.1519/JSC.0000000000004460"
+    },
+    {
+     "t": "Goli 2026",
+     "u": "https://doi.org/10.70252/IJES2026403"
+    },
+    {
+     "t": "Strey 2026 (meta-analiz)",
+     "u": "https://doi.org/10.1007/s11332-025-01586-5"
+    }
+   ],
+   "note": "Yalnız alt yarıyla çalışan grupta baldır %15,2, tam ROM grubunda %6,7, üst yarı grubunda %3,4 kalınlaştı.",
+   "new": "10 haftalık bir çalışmada tükenince gerilmiş bölümde kısmi tekrarla devam eden bacak, yarı set sayısıyla tam ROM bacakla aynı büyümeyi (%8) sağladı. Yeni bir meta-analiz de kas uzunken yapılan kısmi tekrarları destekliyor.",
+   "updated": "2026-11-02"
+  },
+  "fw_backsquat": {
+   "hyp": "Uyluklar paralelin altına inecek kadar derin çök. Derin squat kalça ve iç bacak kaslarını yarım squattan daha çok büyütüyor.",
+   "str": "Güç hedefinde de tam derinlik: derin squat hem derin hem yarım squatta güç kazandırıyor.",
+   "note": "Derin ve yarım squat aynı ön bacak büyümesini sağladı; kalça ve iç bacakta derin squat açık ara öndeydi.",
+   "ev": [
+    {
+     "t": "Kubo 2019",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Kubo+2019+squat+depth+muscle+hypertrophy"
+    },
+    {
+     "t": "Bloomquist 2013",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Bloomquist+2013+deep+shallow+squat"
+    }
+   ]
+  },
+  "fw_rdl": {
+   "hyp": "Dizler hafif bükülü, kalçayı geri it ve arka bacak gerilene kadar in. Uzun kas boyunda çalışmak arka bacağı daha çok büyütüyor.",
+   "str": "Konvansiyonel deadlift ile birlikte kullan; RDL arka zinciri güçlendiren yardımcı harekettir.",
+   "note": "Arka bacakta en yüksek aktivasyonu veren hareketlerden biri RDL. Hamstring'i gerilmiş pozisyonda çalıştırmak uzun kas boyundaki büyümeyi artırıyor.",
+   "ev": [
+    {
+     "t": "McAllister 2014",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=McAllister+2014+muscle+activation+hamstring+exercises"
+    },
+    {
+     "t": "Maeo 2021",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Maeo+2021+hamstrings+hypertrophy+seated+prone+leg+curl"
+    }
+   ]
+  },
+  "fw_deadlift": {
+   "hyp": "Orta yükte (6–12 tekrar) kontrollü negatif ile çalış; kalça ve bel en çok çalışan bölgeler.",
+   "str": "Sumo stil daha kısa çekiş yolu, konvansiyonel stil daha çok bel ve arka bacak işi demek. Vücut yapına uyanı seç.",
+   "note": "Sumo deadlift ön bacağı daha çok, konvansiyonel deadlift bel ve arka bacağı daha çok çalıştırıyor.",
+   "ev": [
+    {
+     "t": "Escamilla 2002",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Escamilla+2002+sumo+conventional+deadlift+EMG"
+    },
+    {
+     "t": "Escamilla 2000",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Escamilla+2000+biomechanical+analysis+deadlift"
+    }
+   ]
+  },
+  "fw_bbrow": {
+   "hyp": "Gövde 30–45° eğik, barı göbek hizasına çek; tepede kürek kemiklerini sık.",
+   "str": "Gövde açısını sabit tutup ağır yük kullan; sallanma gücü sırttan bele kaydırır.",
+   "note": "Ayakta bar row sırt kaslarıyla birlikte bel kaslarını da yoğun çalıştırıyor; göğüs destekli versiyonlar beli rahatlatıyor.",
+   "ev": [
+    {
+     "t": "Fenwick 2009",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Fenwick+2009+comparison+rowing+exercises+trunk+muscle+activation"
+    }
+   ]
+  },
+  "fw_ohp": {
+   "hyp": "Barı başının önünden düz yukarı it; tepede kolları tam kilitle. 6–12 tekrar.",
+   "str": "Ayakta ve bar ile en yüksek yük kaldırılıyor; oturarak yapmak omuzu, ayakta yapmak gövdeyi daha çok çalıştırıyor.",
+   "note": "Ayakta ve bar ile yapılan press'te 1RM daha yüksek; dambıl ve ayakta pozisyon gövde kaslarını daha çok devreye sokuyor.",
+   "ev": [
+    {
+     "t": "Saeterbakken 2013",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Saeterbakken+2013+seated+standing+overhead+press+dumbbell+barbell"
+    }
+   ]
+  },
+  "fw_hipthrust": {
+   "hyp": "Tepede kalçayı tam aç ve 1 saniye sık. Kalça büyümesinde back squat ile benzer sonuç veriyor.",
+   "str": "Hip thrust gücü artırıyor ama bu kazanç squat ve deadlift'e sınırlı taşınıyor; o yüzden ana kaldırışların yanında yap.",
+   "note": "9 haftalık çalışmada hip thrust ve squat kalçada benzer büyüme sağladı; squat ek olarak ön bacak ve iç bacağı da büyüttü.",
+   "ev": [
+    {
+     "t": "Plotkin 2023",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Plotkin+2023+hip+thrust+back+squat+gluteus+hypertrophy"
+    },
+    {
+     "t": "Contreras 2015",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Contreras+2015+hip+thrust+back+squat+EMG"
+    }
+   ]
+  },
+  "fw_bench": {
+   "hyp": "Barı göğüs ucuna kadar indir, tam açıklıkla çalış. Bench press göğüs ve triceps'i birlikte büyütür.",
+   "str": "Omuz genişliğinin 1,5 katı civarı tutuş ve hafif sırt kavisi en yüksek yükü kaldırtır.",
+   "note": "Düzenli bench press antrenmanı göğüs ve triceps kasında belirgin büyüme sağladı.",
+   "ev": [
+    {
+     "t": "Ogasawara 2013",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Ogasawara+2013+bench+press+training+muscle+hypertrophy"
+    },
+    {
+     "t": "Saeterbakken 2017",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Saeterbakken+2017+bench+press+grip+width"
+    }
+   ]
+  },
+  "fw_inclinedb": {
+   "hyp": "Bench'i yaklaşık 30°'ye ayarla. Bu açı göğsün üst kısmını, düz bench'e göre daha çok büyütüyor.",
+   "str": "Güç için düz ve eğimli bench'i birlikte kullan; 45°'nin üstü yükü ön omuza kaydırır.",
+   "note": "Eğimli bench göğsün üst kısmında daha fazla büyüme sağlarken orta ve alt kısımda düz bench ile benzer sonuç verdi.",
+   "ev": [
+    {
+     "t": "Chaves 2024",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Chaves+2024+incline+flat+bench+press+pectoralis+hypertrophy"
+    },
+    {
+     "t": "Rodríguez-Ridao 2020",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Rodriguez-Ridao+2020+bench+press+inclination+EMG"
+    }
+   ]
+  },
+  "fw_dbcurl": {
+   "hyp": "Kolu en altta tam aç. Hareketin alt (kasın uzadığı) yarısı, biceps büyümesinde üst yarısından daha etkili.",
+   "str": "Güç hedefinde tam hareket açıklığıyla ağır çalış; dirsekleri sabit tut.",
+   "note": "Kasın uzun olduğu pozisyonda yapılan kısmi tekrarlar, biceps büyümesinde tam tekrar kadar ya da daha etkili bulundu.",
+   "ev": [
+    {
+     "t": "Pedrosa 2023",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Pedrosa+2023+partial+range+of+motion+long+muscle+length+elbow+flexors"
+    }
+   ]
+  },
+  "fw_hammer": {
+   "hyp": "Avuçlar birbirine bakarken tam açıklıkla çalış; ön koldaki brachioradialis daha çok devreye girer.",
+   "str": "Nötr tutuşta kaldırılan yük genelde düz curl'e eşit ya da daha yüksek.",
+   "note": "Ön kol pozisyonu değiştikçe dirsek bükücü kasların katkısı değişiyor; nötr tutuş brachioradialis'i en çok çalıştırıyor.",
+   "ev": [
+    {
+     "t": "Kholinne 2018",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Kholinne+2018+forearm+position+elbow+flexor+EMG"
+    }
+   ]
+  },
+  "fw_dblateral": {
+   "hyp": "Kolları omuz hizasına kadar kaldır, hafif öne eğik dur. 10–20 tekrar.",
+   "str": "Lateral raise güç değil izolasyon hareketidir; ağır yük yerine temiz tekrar.",
+   "note": "Varyasyonlar karşılaştırıldığında, kolu omuz hizasına kadar kaldırmak ve dambılı hafif öne almak yan omzu en çok çalıştırdı.",
+   "ev": [
+    {
+     "t": "Coratella 2020",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Coratella+2020+lateral+raise+variations+EMG"
+    }
+   ]
+  },
+  "fw_goblet": {
+   "hyp": "Dirsekler dizlerin arasına girene kadar derin çök; derinlik kalça ve iç bacağı büyütür.",
+   "str": "Goblet squat daha çok teknik ve hacim hareketidir; maksimum güç için bar squat'a geç.",
+   "note": "Squat derinliği arttıkça kalça kaslarındaki büyüme artıyor.",
+   "ev": [
+    {
+     "t": "Kubo 2019",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Kubo+2019+squat+depth+muscle+hypertrophy"
+    }
+   ]
+  },
+  "fw_bulgarian": {
+   "hyp": "Önde kalan bacağın dizi ayak ucunun üstüne gelecek kadar in; gövdeyi hafif öne eğmek kalçayı daha çok çalıştırır.",
+   "str": "Tek bacak güçlendikçe iki bacaklı squat performansı da artıyor.",
+   "note": "Bulgarian split squat, daha hafif dış yükle squata benzer kalça ve ön bacak aktivasyonu sağlıyor.",
+   "ev": [
+    {
+     "t": "McCurdy 2010",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=McCurdy+2010+unilateral+bilateral+squat+muscle+activation"
+    },
+    {
+     "t": "Speirs 2016",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Speirs+2016+unilateral+bilateral+squat+training"
+    }
+   ]
+  },
+  "fw_lunge": {
+   "hyp": "Uzun adım at ve arka diz yere yaklaşana kadar in; uzun adım kalçayı, kısa adım ön bacağı daha çok çalıştırır.",
+   "str": "Ağır yükte yürüyerek değil yerinde (statik) lunge daha güvenli.",
+   "note": "Öne lunge'da adım uzunluğu ve gövde açısı, kalça ile ön bacak arasındaki yük dağılımını değiştiriyor.",
+   "ev": [
+    {
+     "t": "Farrokhi 2008",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Farrokhi+2008+trunk+position+forward+lunge+EMG"
+    }
+   ]
+  },
+  "fw_dbrow": {
+   "hyp": "Dirseği kalçaya doğru sür; altta kolu tam uzatıp sırtı gerdir.",
+   "str": "Tek kol çalışmak dengesizlikleri gösterir; gövdeyi döndürmeden ağır çek.",
+   "note": "Destekli tek kol row, ayakta bar row'a göre bele daha az yük bindiriyor.",
+   "ev": [
+    {
+     "t": "Fenwick 2009",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Fenwick+2009+comparison+rowing+exercises+trunk+muscle+activation"
+    }
+   ]
+  },
+  "fw_ohtriceps": {
+   "hyp": "Dambılı başının arkasına derin indir. Baş üstü pozisyon, triceps'i itiş hareketlerine göre çok daha fazla büyütüyor.",
+   "str": "Güç için press hareketlerinin yanında kullan; ağır yükte dirsekleri sabit tut.",
+   "note": "Kol baş üstündeyken yapılan triceps antrenmanı, kol yandayken yapılana göre belirgin şekilde daha fazla büyüme sağladı.",
+   "ev": [
+    {
+     "t": "Maeo 2023",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Maeo+2023+triceps+brachii+hypertrophy+overhead+neutral+arm+position"
+    }
+   ]
+  },
+  "fw_dbpress": {
+   "hyp": "Dambılları omuz hizasından başın üstüne it; altta tam açıklık. 8–12 tekrar.",
+   "str": "Oturarak yapılan press'te daha yüksek yük kaldırılır; dambıl her kolu ayrı zorlar.",
+   "note": "Dambıl press bar press'e göre daha düşük yükle yapılıyor ama omuz kasındaki aktivasyon benzer.",
+   "ev": [
+    {
+     "t": "Saeterbakken 2013",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Saeterbakken+2013+seated+standing+overhead+press+dumbbell+barbell"
+    }
+   ]
+  },
+  "fw_calfraise": {
+   "hyp": "Topuğu basamaktan aşağı sarkıtıp en altta 1–2 saniye bekle. Alt (gerilmiş) yarı baldırı en çok büyütür.",
+   "str": "Tam açıklıkla ağır çalış; baldır için 10–20 tekrar iyi çalışır.",
+   "note": "Kasın uzun olduğu alt yarıda yapılan kısmi tekrarlar, baldırda tam tekrara göre daha fazla büyüme sağladı.",
+   "ev": [
+    {
+     "t": "Kassiano 2023",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Kassiano+2023+gastrocnemius+partial+range+of+motion+lengthened"
+    }
+   ]
+  },
+  "fw_ezcurl": {
+   "hyp": "Kolu en altta tam aç; uzun kas boyunda çalışmak biceps büyümesini artırır.",
+   "str": "EZ bar bileği rahatlatır, böylece düz bara yakın yük kaldırılır.",
+   "note": "Curl varyasyonları karşılaştırıldığında EZ bar, biceps aktivasyonunda düz bara yakın, bilek için daha rahat bulundu.",
+   "ev": [
+    {
+     "t": "Marcolin 2018",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Marcolin+2018+biceps+brachioradialis+curl+variants+EMG"
+    },
+    {
+     "t": "Pedrosa 2023",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Pedrosa+2023+partial+range+of+motion+long+muscle+length+elbow+flexors"
+    }
+   ]
+  },
+  "fw_skull": {
+   "hyp": "Barı başının arkasına doğru indir; omuz bükülü pozisyon triceps'in uzun başını daha çok gerer.",
+   "str": "Ağır setlerde dirsekleri sabit tut, kontrolsüz tekrar dirseği zorlar.",
+   "note": "Triceps'in uzun başı, omuz bükülüyken (kol başa doğruyken) gerilir; bu pozisyon büyümeyi artırıyor.",
+   "ev": [
+    {
+     "t": "Maeo 2023",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Maeo+2023+triceps+brachii+hypertrophy+overhead+neutral+arm+position"
+    }
+   ]
+  },
+  "fw_kbswing": {
+   "hyp": "Kalçayı patlayıcı şekilde aç; kalça ve arka bacak için 15–20 tekrarlı setler.",
+   "str": "Swing patlayıcı gücü ve sıçramayı geliştirir; ağır yükte hız düşmesin.",
+   "note": "Kettlebell swing kalçayı yüksek hızda açtırarak güç üretimini geliştiriyor; düzenli swing maksimum güç ve sıçramayı artırdı.",
+   "ev": [
+    {
+     "t": "Lake & Lauder 2012",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Lake+Lauder+2012+kettlebell+swing+training+maximum+explosive+strength"
+    }
+   ]
+  },
+  "fw_kbsumo": {
+   "hyp": "Kalçayı indirip sırtı düz tut; dizleri dışa iterek kalk.",
+   "str": "Deadlift tekniğini öğrenmek için ideal; güçlendikçe bar deadlift'e geç.",
+   "note": "Sumo pozisyon ön bacağı konvansiyonel deadlift'e göre daha çok çalıştırıyor.",
+   "ev": [
+    {
+     "t": "Escamilla 2002",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Escamilla+2002+sumo+conventional+deadlift+EMG"
+    }
+   ]
+  }
+ }
+}
