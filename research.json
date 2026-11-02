@@ -675,6 +675,214 @@
      "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Escamilla+2002+sumo+conventional+deadlift+EMG"
     }
    ]
+  },
+  "c_run": {
+   "hyp": "Koşu kas büyütmekten çok kondisyon içindir; bacak kaslarını korumak için haftada 2 gün kuvvet antrenmanıyla birleştir.",
+   "str": "Dayanıklılık için çoğu koşuyu konuşabileceğin tempoda yap, haftada 1–2 seans aralıklı koşu ekle.",
+   "note": "Koşu bandında koşu, dış ortamdaki koşuyla biyomekanik olarak büyük ölçüde aynı; yalnızca ayağın yere basış açısı biraz farklı.",
+   "ev": [
+    {
+     "t": "Van Hooren 2020",
+     "u": "https://doi.org/10.1007/s40279-019-01237-z"
+    },
+    {
+     "t": "Bull 2020 (WHO)",
+     "u": "https://doi.org/10.1136/bjsports-2020-102955"
+    }
+   ],
+   "updated": "2026-11-02"
+  },
+  "c_inclinewalk": {
+   "hyp": "Eğim arttıkça kalça ve baldır kaslarının işi artar, ama kas büyütmek için kuvvet antrenmanının yerini tutmaz.",
+   "str": "Kondisyon için %8–12 eğimde 25–45 dk; tutunmadan yürü.",
+   "note": "Eğim %0'dan %10'a çıkınca enerji harcaması ve baldır, ön bacak kaslarının aktivasyonu belirgin artıyor.",
+   "ev": [
+    {
+     "t": "Silder 2012",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4504736/"
+    },
+    {
+     "t": "Bull 2020 (WHO)",
+     "u": "https://doi.org/10.1136/bjsports-2020-102955"
+    }
+   ],
+   "updated": "2026-11-02"
+  },
+  "c_bike": {
+   "hyp": "Bisiklet ön bacak kaslarını hafifçe güçlendirir; asıl katkısı kalp-damar kondisyonudur.",
+   "str": "Sele yüksekliğini dizde 25–35° bükülme kalacak şekilde ayarla; verim ve diz sağlığı için en iyi aralık.",
+   "note": "Sele yüksekliği dinamik diz açısına göre ayarlanmalı; yanlış yükseklik diz yükünü ve verimi değiştiriyor.",
+   "ev": [
+    {
+     "t": "Bini 2022",
+     "u": "https://doi.org/10.1080/02640414.2021.1994727"
+    },
+    {
+     "t": "Bull 2020 (WHO)",
+     "u": "https://doi.org/10.1136/bjsports-2020-102955"
+    }
+   ],
+   "updated": "2026-11-02"
+  },
+  "c_spin": {
+   "hyp": "Yüksek dirençli tırmanışlar bacak kaslarını zorlar ama kas büyütmek için ağırlık antrenmanıyla birleştir.",
+   "str": "Aralıklı yapı (tırmanış + toparlanma) aerobik kapasiteyi verimli geliştirir.",
+   "note": "Kapalı alan bisikleti aerobik kapasite, kan basıncı, kan yağları ve vücut kompozisyonunu iyileştirebiliyor; ama randomize çalışma az.",
+   "ev": [
+    {
+     "t": "Chavarrias 2019",
+     "u": "https://doi.org/10.3390/medicina55080452"
+    },
+    {
+     "t": "Viana 2019",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/30765340/"
+    }
+   ],
+   "updated": "2026-11-02"
+  },
+  "c_elliptical": {
+   "hyp": "Eliptik kalça ve ön bacağı darbe olmadan çalıştırır; kas büyütme etkisi sınırlıdır.",
+   "str": "Kondisyon için orta tempoda 30–45 dk; eklem ağrısında koşuya iyi bir alternatif.",
+   "note": "Eliptikte kalça ve diz hareket aralığı yürüyüşe benziyor, ama daha bükülü bir duruşla yapılıyor.",
+   "ev": [
+    {
+     "t": "Damiano 2011",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3130090/"
+    },
+    {
+     "t": "Bull 2020 (WHO)",
+     "u": "https://doi.org/10.1136/bjsports-2020-102955"
+    }
+   ],
+   "updated": "2026-11-02"
+  },
+  "c_rowerg": {
+   "hyp": "Kürek bacak, sırt ve kolu birlikte çalıştırır; kas büyütmek için ek kuvvet antrenmanı gerekir.",
+   "str": "Güç bacaktan başlamalı; yorulunca bel öne yuvarlanmasın diye teknik bozulursa tempoyu düşür.",
+   "note": "Yorgunlukla 'catch' anında bel bükülmesi artıyor ve bu ergometrede sudakinden fazla; bel ağrısı olanlarda pelvis geriye devriliyor.",
+   "ev": [
+    {
+     "t": "Nugent 2021",
+     "u": "https://doi.org/10.1136/bjsports-2020-102533"
+    },
+    {
+     "t": "Bull 2020 (WHO)",
+     "u": "https://doi.org/10.1136/bjsports-2020-102955"
+    }
+   ],
+   "updated": "2026-11-02"
+  },
+  "c_stair": {
+   "hyp": "Her adımda vücut ağırlığını kaldırdığın için kalça ve ön bacak yoğun çalışır.",
+   "str": "Kısa ve yoğun aralıklar (3 × 20–60 sn) bile kondisyonu artırıyor.",
+   "note": "Haftada 3 gün, 3 × 20 sn yoğun merdiven çıkmak 6 haftada kondisyonu (VO2peak) yaklaşık %12 artırdı.",
+   "ev": [
+    {
+     "t": "Allison 2017",
+     "u": "https://doi.org/10.1249/MSS.0000000000001188"
+    },
+    {
+     "t": "Bull 2020 (WHO)",
+     "u": "https://doi.org/10.1136/bjsports-2020-102955"
+    }
+   ],
+   "updated": "2026-11-02"
+  },
+  "g_bbutt": {
+   "hyp": "Kalça için en etkili hareketler step-up, hip thrust, lunge ve squat; derste bunları ağırlık ya da bantla zorlaştır.",
+   "str": "Kalça gücü için ders yetmez; haftada 1–2 kez ağır hip thrust veya squat ekle.",
+   "note": "Kalça kasını en çok çalıştıran hareketler step-up varyasyonları, hip thrust, lunge ve deadlift; dış yük eklemek etkiyi artırıyor.",
+   "ev": [
+    {
+     "t": "Neto 2020",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7039033/"
+    },
+    {
+     "t": "Krause Neto 2025",
+     "u": "https://doi.org/10.3389/fphys.2025.1542334"
+    }
+   ],
+   "updated": "2026-11-02"
+  },
+  "g_spinclass": {
+   "hyp": "Bacak kaslarını korur ama büyütmek için tek başına yetersiz; kuvvet antrenmanıyla birleştir.",
+   "str": "Kendi nabız ve zorlanma algına göre direnci ayarla; aralıklı yapı kondisyonu hızla artırır.",
+   "note": "Spinning dersleri aerobik kapasiteyi geliştiriyor; diyetle birleşince kilo, kan basıncı ve kan yağlarında iyileşme daha belirgin.",
+   "ev": [
+    {
+     "t": "Chavarrias 2019",
+     "u": "https://doi.org/10.3390/medicina55080452"
+    },
+    {
+     "t": "Viana 2019",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/30765340/"
+    }
+   ],
+   "updated": "2026-11-02"
+  },
+  "g_core": {
+   "hyp": "Karın kasını büyütmek için crunch gibi dinamik hareketleri yük ve tekrarla zorlaştır.",
+   "str": "Plank'ta kalçayı hafif içe çekip kürek kemiklerini toplamak karın aktivasyonunu artırıyor.",
+   "note": "Plank varyasyonlarında askıya alınmış (TRX) ve roll-out plank karnı en çok çalıştırıyor; pelvis ve kürek kemiği konumu sonucu değiştiriyor.",
+   "ev": [
+    {
+     "t": "Calatayud 2017",
+     "u": "https://doi.org/10.1097/PHM.0000000000000713"
+    },
+    {
+     "t": "Cortell-Tormo 2017",
+     "u": "https://doi.org/10.1519/JSC.0000000000001689"
+    }
+   ],
+   "updated": "2026-11-02"
+  },
+  "g_step": {
+   "hyp": "Basamağa çıkış kalçayı çok çalıştırır; yüksek basamak ve yavaş tempo kas yükünü artırır.",
+   "str": "Kondisyon için 45–60 dk ders, haftada 2–3 kez.",
+   "note": "Step-up ve varyasyonları kalça kasını en yüksek düzeyde (%60 MVIC üstü) aktive eden hareketler arasında.",
+   "ev": [
+    {
+     "t": "Neto 2020",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7039033/"
+    },
+    {
+     "t": "Bull 2020 (WHO)",
+     "u": "https://doi.org/10.1136/bjsports-2020-102955"
+    }
+   ],
+   "updated": "2026-11-02"
+  },
+  "g_pilates": {
+   "hyp": "Pilates karın ve gövde kaslarının dayanıklılığını artırır; kas büyütme etkisi sınırlıdır.",
+   "str": "Kontrol ve nefes önce gelir; bel kalkmadan yapılabilen hareket açıklığında çalış.",
+   "note": "Bel ağrısında Pilates, minimal müdahaleye göre ağrı ve engellilikte iyileşme sağlıyor; ama diğer egzersizlerden üstün olduğu gösterilmedi.",
+   "ev": [
+    {
+     "t": "Yamato 2016 (Cochrane)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/?term=Yamato+Pilates+for+low+back+pain+complete+republication+Cochrane"
+    },
+    {
+     "t": "Bull 2020 (WHO)",
+     "u": "https://doi.org/10.1136/bjsports-2020-102955"
+    }
+   ],
+   "updated": "2026-11-02"
+  },
+  "g_yoga": {
+   "hyp": "Yoga kas gücü ve esnekliği geliştirir ama kas büyütmek için kuvvet antrenmanının yerini tutmaz.",
+   "str": "Denge, esneklik ve alt bacak gücü için haftada 2–3 ders.",
+   "note": "Yoga denge, alt bacak esnekliği ve kuvvette iyileşme sağlıyor; germe-kuvvet egzersizleriyle benzer işlevsel kazanımlar sunuyor.",
+   "ev": [
+    {
+     "t": "Sivaramakrishnan 2019",
+     "u": "https://doi.org/10.1186/s12966-019-0789-2"
+    },
+    {
+     "t": "Gothe 2016",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/26297940/"
+    }
+   ],
+   "updated": "2026-11-02"
   }
  }
 }
