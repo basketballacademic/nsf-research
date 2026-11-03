@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "source": "https://github.com/basketballacademic/nsf-research",
  "items": {
   "k_latconv": {
@@ -883,6 +883,882 @@
     }
    ],
    "updated": "2026-11-02"
+  },
+  "fw_kbgoblet": {
+   "hyp": "Göğüste tutulan yük gövdeyi dik tutar ve dizleri öne çıkarır; ön bacak (quadriceps) için kontrollü inişle 8–15 tekrarlı setler yap.",
+   "str": "Squat tekniği ve derinliği için iyi bir başlangıç; ağır maksimum kuvvet için ileride barbell squat'a geç.",
+   "note": "EMG çalışmasında goblet squat, landmine squat'a göre ön bacakta (vastus) daha yüksek aktivasyon ve daha fazla dikey yük üretti. Swing ve goblet squat içeren 6 haftalık kettlebell programı kuvveti artırdı ama halter antrenmanından daha az.",
+   "ev": [
+    {
+     "t": "Collins 2021",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/34341315/"
+    },
+    {
+     "t": "Otto 2012",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/22344061/"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "fw_kbclean": {
+   "hyp": "Kas büyütmek için ana hareket değil; çekiş ve kalça açılımını öğreten tüm vücut hareketi olarak kullan.",
+   "str": "Kalçadan patlayıcı çek, zili kola yapıştırarak rack pozisyonunda yumuşak karşıla; 3–6 temiz tekrarlı setler.",
+   "note": "Tek kol clean, swing ve snatch ile karşılaştırıldığında tüm vücudu çalıştırıyor; karşı taraf dış oblik kasında swing'den daha fazla aktivasyon gösterdi, yani bu üç hareket birbirinin yerine geçmiyor.",
+   "ev": [
+    {
+     "t": "Lyons 2017",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/28394829/"
+    },
+    {
+     "t": "Meigh 2019 (derleme)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/31497302/"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "fw_kbpress": {
+   "hyp": "Omuz için 6–12 tekrar, kontrollü iniş; omuzu en çok büyütmek istiyorsan dambıl da iyi alternatif.",
+   "str": "Kaburgayı kapat, kalçayı sık ve kolu kilitle; bottoms-up varyasyonu omuz stabilitesini zorlar.",
+   "note": "Eşit yükte dambıl press ön ve orta deltoidi kettlebell'den biraz daha fazla çalıştırdı. Bottoms-up kettlebell press ise serratus anterior ve trapez gibi stabilizatörlerde aktivasyonu artırdı.",
+   "ev": [
+    {
+     "t": "Busch 2024",
+     "u": "https://doi.org/10.1016/j.jbmt.2023.10.001"
+    },
+    {
+     "t": "Dicus 2018",
+     "u": "https://digitalcommons.wku.edu/ijes/vol11/iss1/6"
+    },
+    {
+     "t": "Pakoz 2026",
+     "u": "https://doi.org/10.1080/09593985.2026.2654028"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "fw_kbsnatch": {
+   "hyp": "Kas büyütmek için ana hareket değil; arka zincir ve kondisyon için yüksek tekrarlı, hızlı bir hareket.",
+   "str": "Kondisyon için süreli setler (ör. 15–30 sn iş / dinlenme) yap; yorulunca teknik bozuluyorsa seti bitir.",
+   "note": "Snatch her tekrarda bacaklara asimetrik yük bindiriyor ve 6 dakikalık sette uygulanan kuvvet düşüyor; bel ve sırt kasları yüksek aktivasyon gösteriyor. 4 haftalık snatch protokolü aerobik kapasiteyi (VO2max) orta düzeyde artırdı, ancak çalışma randomize değildi.",
+   "ev": [
+    {
+     "t": "Ross 2017",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/28367368/"
+    },
+    {
+     "t": "McGill & Marshall 2012",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/21997449/"
+    },
+    {
+     "t": "Meigh 2019 (derleme)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/31497302/"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "fw_kbtgu": {
+   "hyp": "Kas büyütmek için ana hareket değil; omuz stabilitesi ve gövde kontrolü için yavaş, kaliteli 1–3 tekrar/taraf.",
+   "str": "Hem kalkış hem iniş aşamasını çalış; zili hep dikey tut ve gözün zilde olsun.",
+   "note": "Deneyimli kişilerde omuz kasları en çok dirsek desteğine geçişte ve bacak süpürme aşamasında çalıştı. Araştırmacılar faydayı artırmak için hem çıkış hem iniş aşamasının antrenmanını önerdi.",
+   "ev": [
+    {
+     "t": "St-Onge 2019",
+     "u": "https://doi.org/10.1016/j.jbmt.2018.01.013"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "fw_kbrow": {
+   "hyp": "Sırt (latissimus) için 8–15 tekrar; tepede kürek kemiğini sık, gövdeyi döndürmeden çek.",
+   "str": "Tek kol çekiş gövdenin dönmeye direnmesini de çalıştırır; boşta kalan kolla destek alıp ağır yükle çalışabilirsin.",
+   "note": "Tek kol (kablo) row, iki kollu bent-over row'a göre belde daha az baskı ama daha fazla dönme direnci ve oblik aktivasyonu yarattı; çalışma kettlebell değil kablo kullandı. Serbest ağırlıkla row, lastik banda göre orta ve alt trapezi daha çok çalıştırdı.",
+   "ev": [
+    {
+     "t": "Fenwick 2009",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/19197209/"
+    },
+    {
+     "t": "Pakoz 2026",
+     "u": "https://doi.org/10.1080/09593985.2026.2654028"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "fw_kbslrdl": {
+   "hyp": "Kalça ve arka bacak için 8–12 tekrar/bacak; yükü destek bacağın karşı elinde tut.",
+   "str": "Denge ve tek bacak kuvveti için yavaş in, kalçayı geriye it; ağırlıktan önce denge gelsin.",
+   "note": "Tek bacak RDL'de yükü karşı elde tutmak, aynı taraf eline göre gluteus medius ve üst gluteus maximus aktivasyonunu artırdı. Flywheel ile dambıl arasında kas aktivasyonu farkı yoktu.",
+   "ev": [
+    {
+     "t": "Mo 2023",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/38093908/"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "fw_kbhalo": {
+   "hyp": "Kas büyütmek için uygun değil; ısınma ve omuz hareketliliği için hafif yükle 5–10 tur/yön.",
+   "str": "Kalça ve karın kaslarını sık, gövdeyi sabit tut; yük yerine kontrol ve hareket açıklığına odaklan.",
+   "note": "Halo'yu doğrudan inceleyen hakemli bir çalışma bulunamadı. Kettlebell literatürünü tarayan derlemeye göre kanıtların çoğu düşük kaliteli ve etkiler küçük.",
+   "ev": [
+    {
+     "t": "Meigh 2019 (derleme)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/31497302/"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "fw_kbwindmill": {
+   "hyp": "Kas büyütmek için ana hareket değil; omuz stabilitesi ve yan gövde için hafif-orta yükle 3–5 tekrar/taraf.",
+   "str": "Kalçayı yana it, gözün zilde olsun; omuz ve gövde kontrolü için yavaş çalış.",
+   "note": "Windmill'i doğrudan inceleyen hakemli bir çalışma bulunamadı. Kettlebell egzersizlerinde omuz kaslarının aktivasyonu harekete göre değişiyor, ancak genel kanıt düzeyi düşük.",
+   "ev": [
+    {
+     "t": "Meigh 2019 (derleme)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/31497302/"
+    },
+    {
+     "t": "Hedt 2021",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/33333490/"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "fw_kblunge": {
+   "hyp": "Bacak ve kalça için 8–12 tekrar/bacak; gövdeyi hafif öne eğmek kalça kaslarını biraz daha fazla çalıştırır.",
+   "str": "Tek bacak kuvveti ve denge için kontrollü in; geri adım öne adıma göre dizi daha kolay kontrol ettirir.",
+   "note": "Lunge'da gövdeyi öne eğmek, kalça açıcı kasların yükünü ve aktivasyonunu az miktarda artırdı. Çalışma öne lunge'ı inceledi, geri lunge değil.",
+   "ev": [
+    {
+     "t": "Farrokhi 2008",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/18591759/"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "fw_kbfarmer": {
+   "hyp": "Kas büyütmek için ana hareket değil; kavrama, trapez ve gövde dayanıklılığı için ek iş olarak kullan.",
+   "str": "Ağır yükle 20–40 m yürü; dik dur, kısa ve hızlı adımlar at; tek kol carry yan gövdeyi daha çok zorlar.",
+   "note": "Strongman çalışmasında farmer's walk belde yüksek yük ve kalçada yandan destek (abduksiyon) için maksimuma yakın talep oluşturdu; taşıma işleri kaldırmadan farklı bir zorlanma yaratıyor. Bottoms-up taşımada gövde kas aktivasyonu normal yürüyüşe göre arttı.",
+   "ev": [
+    {
+     "t": "McGill 2009",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/19528856/"
+    },
+    {
+     "t": "McGill & Marshall 2012",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/21997449/"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "fw_kbfloorpress": {
+   "hyp": "Göğüs ve arka kol için 8–15 tekrar; tam hareket açıklığı için bench press de programda olsun.",
+   "str": "Dirsek yere değince duraklat ve itiş gücüne odaklan; omuzları zorlamadan press çalışmak için iyi seçenek.",
+   "note": "Floor press'i doğrudan inceleyen çalışma bulunamadı. Bench press'te tam hareket açıklığı, kısmi açıklığa göre uzun dönemde daha fazla nöromüsküler gelişim sağladı; floor press kısmi açıklıklı bir harekettir.",
+   "ev": [
+    {
+     "t": "Martinez-Cava 2022",
+     "u": "https://doi.org/10.1519/JSC.0000000000003391"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "sf_kbsquatpull": {
+   "hyp": "Kas büyütmek için ana hareket değil; yarış istasyonu olarak bacak, omuz ve trapez dayanıklılığını çalış.",
+   "str": "Squat'tan kalkarken kalçayla ivme ver, dirsekleri yukarı çek ve kolu omuz hizasında bırak; yarış temposunda seri tekrarlarla prova yap.",
+   "note": "Speedfit için hakemli çalışma bulunamadı. Upright row'da tutuş genişledikçe deltoid ve trapez aktivasyonu arttı; goblet squat ön bacağı ön plana çıkarıyor. Benzer bir yarış formatı olan HYROX'ta performansı kuvvetten çok aerobik kapasite belirledi.",
+   "ev": [
+    {
+     "t": "McAllister 2013",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/22362088/"
+    },
+    {
+     "t": "Collins 2021",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/34341315/"
+    },
+    {
+     "t": "Brandt 2025",
+     "u": "https://doi.org/10.3389/fphys.2025.1519240"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "px_boxjump": {
+   "hyp": "Kas büyütmek için ana hareket değil; bacak hacmi için squat ve lunge gibi yüklü hareketlerle birlikte kullan.",
+   "str": "3–5 tekrarlı, tam dinlenmeli setlerle patlayıcı sıçra; çok yüksek kutu yerine yumuşak inebildiğin orta yükseklik seç.",
+   "note": "Plyometrik antrenman dikey sıçramayı anlamlı artırıyor (CMJ'de ortalama ~%8,7). Elit hentbolcularda maksimum kutunun %70'i ile %90'ı arasında kuvvet ve güç farkı bulunmadı; yazarlar çok yüksek kutuların ek riskine değmediğini söylüyor.",
+   "ev": [
+    {
+     "t": "Markovic 2007 (meta-analiz)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/17347316/"
+    },
+    {
+     "t": "Koefoed 2022",
+     "u": "https://doi.org/10.1519/JSC.0000000000003481"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "px_stepup": {
+   "hyp": "Tek bacak kalça ve ön bacak çalışması; ağır dambılla 6–12 tekrar, kontrollü iniş.",
+   "str": "Ağır step-up tek bacak kuvvetini ve dengeyi geliştirir; itişi öndeki bacaktan yap, arka ayakla zıplama.",
+   "note": "46 cm kutuda 6RM yükle yapılan EMG çalışmasında standart, çapraz, diyagonal ve yan step-up varyasyonları bacak kaslarını farklı oranlarda çalıştırdı; yani her varyasyon farklı bir uyaran sunuyor.",
+   "ev": [
+    {
+     "t": "Simenz 2012",
+     "u": "https://doi.org/10.1519/JSC.0b013e3182472fad"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "px_depthjump": {
+   "hyp": "Kas büyütmek için uygun değil; reaktif güç (sıçrama-esneme döngüsü) aracıdır.",
+   "str": "Düşük kutudan (ör. 20–40 cm) başla, yere değme süresini kısa tut; sıçrama yüksekliği düşüyor ya da temas uzuyorsa kutu fazla yüksektir.",
+   "note": "Meta-analizde plyometrik antrenman drop jump yüksekliğini ortalama ~%4,7 artırdı. Sistematik derleme, düşüş yüksekliğinin tek başına yoğunluk ölçüsü olmadığını ve en iyi yüksekliğin kişiye göre (ör. reaktif kuvvet indeksiyle) belirlenmesi gerektiğini vurguluyor.",
+   "ev": [
+    {
+     "t": "Markovic 2007 (meta-analiz)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/17347316/"
+    },
+    {
+     "t": "Montoro-Bombú 2023 (derleme)",
+     "u": "https://doi.org/10.3389/fphys.2023.1181781"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "px_jumpover": {
+   "hyp": "Kas büyütmek için ana hareket değil; daha çok kondisyon ve sıçrama becerisi kazandırır.",
+   "str": "Güç için az tekrarlı ve dinlenmeli, kondisyon için zamanlı setlerle yap; yorgunken inişi yumuşak ve dengeli tut.",
+   "note": "Kutunun üzerinden atlamaya özel çalışma yok; genel plyometrik verilere göre sıçrama antrenmanı dikey sıçramayı artırıyor ve yatay yönlü sıçramalar yatay performansı dikeye göre daha çok geliştiriyor.",
+   "ev": [
+    {
+     "t": "Markovic 2007 (meta-analiz)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/17347316/"
+    },
+    {
+     "t": "Moran 2021 (meta-analiz)",
+     "u": "https://doi.org/10.1007/s40279-020-01340-6"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "px_seatedjump": {
+   "hyp": "Kas büyütmek için uygun değil; kalçadan başlangıç gücü (concentric) çalışmasıdır.",
+   "str": "Banktan duraksayarak ve geri sallanmadan kalk; 3–5 tekrarlı setlerle başlangıç kuvvetini ve hızı çalış.",
+   "note": "Oturarak kutu sıçramasını doğrudan inceleyen hakemli çalışma bulamadık. Ön hareketsiz (squat) sıçrama, ön hareketli sıçramadan ortalama 3,4 cm daha alçak; bu yüzden oturarak başlamak hareketi sıçrama-esneme desteğinden arındırıp saf itiş gücüne yükler.",
+   "ev": [
+    {
+     "t": "Bobbert 1996",
+     "u": "https://doi.org/10.1097/00005768-199611000-00009"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "tx_slamball": {
+   "hyp": "Kas büyütmek için ana hareket değil; tüm vücut güç ve kondisyon istasyonudur.",
+   "str": "Topu tüm gövdeyle sert vur, ardından kollarla salınarak uzun atla; yarış temposunda nefesini topla ve ritmi koru.",
+   "note": "Slam ball + uzun atlamayı (ve TRX Ignite formatını) doğrudan inceleyen hakemli çalışma yok. 12 haftalık sağlık topu antrenmanı fırlatma ve üst vücut gücünü artırdı; yatay plyometrik antrenman ise yatay sıçramayı dikeye göre daha çok geliştirdi.",
+   "ev": [
+    {
+     "t": "Ignjatovic 2012",
+     "u": "https://doi.org/10.1519/JSC.0b013e31823c477e"
+    },
+    {
+     "t": "Moran 2021 (meta-analiz)",
+     "u": "https://doi.org/10.1007/s40279-020-01340-6"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "hx_burpeebroad": {
+   "hyp": "Kas büyütmek için uygun değil; dayanıklılık ve yarış istasyonu hareketidir.",
+   "str": "Sabit ve sürdürülebilir bir ritim kur, uzun atlamayı aşırı uzatma; aerobik temelin yarış süresini en çok belirleyen faktör.",
+   "note": "Simüle HYROX'ta daha hızlı bitiriş daha yüksek VO2max, daha fazla dayanıklılık antrenmanı ve daha düşük yağ oranıyla ilişkiliydi; istasyonlar koşudan daha yoğundu. Burpee, akut ölçümlerde en yüksek oksijen tüketimi oluşturan vücut ağırlığı hareketlerinden biriydi.",
+   "ev": [
+    {
+     "t": "Brandt 2025",
+     "u": "https://doi.org/10.3389/fphys.2025.1519240"
+    },
+    {
+     "t": "Ratamess 2015",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/24942174/"
+    },
+    {
+     "t": "Gist 2015",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/25939101/"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "br_doublewave": {
+   "hyp": "Kas büyütmek için ana hareket değil; omuz ve kollarda kas dayanıklılığı sağlar.",
+   "str": "15 sn yüklen / 45 sn dinlen gibi aralıklı setlerle yap; dalgayı kalça ve dizlerden destekleyerek ritmini koru.",
+   "note": "10×15 sn çift kol dalga protokolü kalp atımını yaşa göre maksimumun ~%86'sına çıkardı ve yazarlara göre kardiyorespiratuvar gelişim için gereken yoğun eşikleri karşıladı.",
+   "ev": [
+    {
+     "t": "Fountaine & Schmidt 2015",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/23897017/"
+    },
+    {
+     "t": "Ratamess 2015",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/24942174/"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "br_alternating": {
+   "hyp": "Kas büyütmek için ana hareket değil; omuz ve gövde dayanıklılığı için kullan.",
+   "str": "Kısa (15–30 sn), yüksek tempolu aralıklar yap; kolları sırayla ve eşit genlikte çalıştır.",
+   "note": "8 haftalık ip antrenmanı basketbolcularda aerobik kapasite, üst ve alt vücut gücü ve gövde dayanıklılığını artırdı. Halat protokolünde zirve oksijen tüketimi VO2max'ın ~%68–72'sine ulaştı.",
+   "ev": [
+    {
+     "t": "Chen 2018",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/29847529/"
+    },
+    {
+     "t": "Brewer 2018",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/30335722/"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "br_slam": {
+   "hyp": "Kas büyütmek için ana hareket değil; tüm vücut güç ve kondisyon hareketidir.",
+   "str": "Halatı tüm gövdeyle ve maksimum hızla yere vur; kısa setler ve tam dinlenme güç, uzun setler kondisyon için.",
+   "note": "Halat slam'ını özel olarak inceleyen hakemli çalışma yok; karışık halat devresi, test edilen 13 egzersiz arasında en yüksek oksijen tüketimi, kalp atımı ve enerji harcamasını oluşturdu.",
+   "ev": [
+    {
+     "t": "Ratamess 2015",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/24942174/"
+    },
+    {
+     "t": "Chen 2018",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/29847529/"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "br_lungewave": {
+   "hyp": "Kas büyütmek için ana hareket değil; bacak ve omuz için kas dayanıklılığı sağlar.",
+   "str": "Lunge'ı kontrollü yaparken dalgayı kesmeden sürdür; kısa aralıklarla metabolik yükü artır.",
+   "note": "Lunge + dalga kombinasyonunu doğrudan inceleyen çalışma yok; ayakta yapılan halat protokolünde zirve oksijen tüketimi VO2max'ın ~%68'iydi. Lunge eklemenin yükü artırıp artırmadığı ölçülmedi.",
+   "ev": [
+    {
+     "t": "Brewer 2018",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/30335722/"
+    },
+    {
+     "t": "Fountaine & Schmidt 2015",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/23897017/"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "br_grappler": {
+   "hyp": "Kas büyütmek için ana hareket değil; gövde rotasyonu ve kondisyon için kullan.",
+   "str": "Gücü kalça ve gövde dönüşünden üret, kollardan değil; 15–30 sn yoğun aralıklarla çalış.",
+   "note": "Grappler throw'u özel olarak inceleyen hakemli çalışma yok; genel halat antrenmanı çalışmaları yüksek metabolik talep ve 8 haftada güç, çeviklik ve gövde dayanıklılığında artış gösteriyor.",
+   "ev": [
+    {
+     "t": "Chen 2018",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/29847529/"
+    },
+    {
+     "t": "Ratamess 2015",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/24942174/"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "g_zumba": {
+   "hyp": "Kas büyütmek için uygun bir ders değil; kas kazanmak istiyorsan haftaya ağırlık antrenmanı ekle.",
+   "str": "Dans temposu nabzı uzun süre yüksek tutar; kondisyon için haftada 2–3 ders düzenli devam et.",
+   "note": "Kontrollü çalışmaları birleştiren meta-analize göre Zumba VO2peak'i (kondisyon) orta düzeyde artırabiliyor. Yağ kütlesinde ise anlamlı azalma gösterilemedi; kanıt kalitesi düşük ve çalışma sayısı az.",
+   "ev": [
+    {
+     "t": "Chavarrias 2021 (meta-analiz)",
+     "u": "https://doi.org/10.3390/ijerph18010105"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "g_bodypump": {
+   "hyp": "Hafif ağırlıkla çok tekrar yapıldığı için kas uyarımı sınırlı kalabilir. Kas kazanmak için yükü kademeli artır ya da ağır setlerle destekle.",
+   "str": "Ders kas dayanıklılığını çalıştırır; maksimal güç (1RM) için kişisel planlı ağır antrenman daha etkili.",
+   "note": "Fazla kilolu kadınlarla yapılan 12 haftalık RCT'de BodyPump güç ve vücut kompozisyonunu kontrol grubuna göre iyileştirmedi; en büyük güç artışı kişisel antrenörlü ağır antrenmanda görüldü. Tek bir BodyPump dersi yaklaşık 300 kcal harcatarak ağır yük seansıyla benzer enerji harcaması sağladı.",
+   "ev": [
+    {
+     "t": "Rustaden 2017",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/28392264/"
+    },
+    {
+     "t": "Rustaden 2020",
+     "u": "https://doi.org/10.3389/fphys.2020.00570"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "g_hiit": {
+   "hyp": "Kas büyütmek için ana yöntem değil; kas kazanımı için direnç antrenmanıyla birlikte yap.",
+   "str": "Kısa, çok yoğun aralıklar VO2max'ı hızla artırır; haftada 2–3 seans yeterli, aralarda toparlan.",
+   "note": "Meta-analizde HIIT, VO2max'ı büyük ölçüde artırdı ve sürekli dayanıklılık antrenmanına göre küçük bir üstünlük gösterdi. Fazla kilolu yetişkinlerde HIIT ve orta tempolu sürekli egzersiz yağ kütlesini benzer şekilde azalttı; HIIT yaklaşık %40 daha az zaman gerektirdi.",
+   "ev": [
+    {
+     "t": "Milanović 2015 (meta-analiz)",
+     "u": "https://doi.org/10.1007/s40279-015-0365-0"
+    },
+    {
+     "t": "Wewege 2017 (meta-analiz)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/28401638/"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "g_combat": {
+   "hyp": "Kas büyütmek için uygun değil; kondisyon ve kalori harcaması odaklı bir ders.",
+   "str": "Yumruk ve tekmeleri hızlı ve kontrollü at, nabzı yüksek tut. Aerobik kondisyon ve çeviklik için düzenli devam et.",
+   "note": "Body Combat derslerinde kalp atım hızı ortalama maksimumun yaklaşık %86'sına çıktı ve BodyPump'tan daha yüksek kardiyovasküler yük oluştu (küçük örneklem). Gerçek kickboks antrenmanı yapılan 5 haftalık RCT'de aerobik güç, çeviklik ve esneklik gelişti, vücut kompozisyonu değişmedi; aerobik kickboks dersini doğrudan inceleyen RCT bulunamadı.",
+   "ev": [
+    {
+     "t": "Ferrari 2006",
+     "u": "https://www.redalyc.org/pdf/751/75117270006.pdf"
+    },
+    {
+     "t": "Ouergui 2014",
+     "u": "https://doi.org/10.11138/mltj/2014.4.2.106"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "g_functional": {
+   "hyp": "Kas büyümesi için ikincil bir seçenek; kettlebell ve vücut ağırlığı yükleri kademeli artırılmazsa uyarı sınırlı kalır.",
+   "str": "Çok eklemli, yüksek tempolu devreler güç ve kuvveti geliştirir; teknik bozulmadan hız ve yükü artır.",
+   "note": "Sporcularda yüksek yoğunluklu fonksiyonel antrenman (HIFT) üst ve alt vücut kuvveti, güç ve esneklikte küçük-büyük etkiler gösterdi; dayanıklılık ve çeviklikte anlamlı etki görülmedi. Kettlebell çalışmalarını tarayan derlemede etkiler çoğunlukla önemsiz-küçük, kanıt kalitesi düşük bulundu.",
+   "ev": [
+    {
+     "t": "Wang 2023 (meta-analiz)",
+     "u": "https://doi.org/10.1371/journal.pone.0295531"
+    },
+    {
+     "t": "Meigh 2019 (derleme)",
+     "u": "https://doi.org/10.1186/s13102-019-0130-z"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "g_trx": {
+   "hyp": "Vücut açısını değiştirerek yükü artır; kas büyümesi için setleri tükenişe yakın bitir.",
+   "str": "Askıdaki dengesizlik gövde kaslarını ekstra çalıştırır; ağır serbest ağırlığın yerine değil, tamamlayıcısı olarak kullan.",
+   "note": "Sistematik derlemeye göre askıda şınav, prone bridge ve hamstring curl, geleneksel versiyonlara göre üst vücut ve gövde kaslarını daha fazla aktive etti (inverted row hariç). Yaşlılarda 12 haftalık TRX antrenmanı mobilite ve göğüs itme kuvvetini lastik bant antrenmanıyla benzer düzeyde geliştirdi.",
+   "ev": [
+    {
+     "t": "Aguilera-Castells 2020 (derleme)",
+     "u": "https://doi.org/10.1080/14763141.2018.1472293"
+    },
+    {
+     "t": "Gaedtke 2016",
+     "u": "https://doaj.org/article/30021ad3af664701a19628237148bfcc"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "g_barre": {
+   "hyp": "Hafif yük ve izometrik tutuşlar kas dayanıklılığını artırır; kas büyütmek için ana yöntem değil.",
+   "str": "Bacak ve gövde dayanıklılığı için iyi bir tamamlayıcı; haftada 3 ders düzenli devam et.",
+   "note": "Hareketsiz kadın ofis çalışanlarında 8 haftalık barre antrenmanı alt ekstremite ve gövde kas dayanıklılığı ile kuvvetini kontrol grubuna göre artırdı. Kanıt tek ve küçük bir çalışmaya dayanıyor.",
+   "ev": [
+    {
+     "t": "Parhonlakan 2024",
+     "u": "https://he02.tci-thaijo.org/index.php/spsc_journal/article/view/266324"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "g_stretch": {
+   "hyp": "Kas büyütmek için ana yöntem değil; meta-analizde uzun süreli statik esnemenin kas büyümesine etkisi önemsiz düzeyde kaldı.",
+   "str": "Ağır ya da patlayıcı antrenmandan hemen önce kas başına 60 sn'den uzun statik esneme yapma; esnekliği antrenman sonrası veya ayrı seanslarda çalış.",
+   "note": "Düzenli esneme eklem hareket açıklığını orta düzeyde artırıyor; statik ve PNF esneme dinamik esnemeden daha etkili. Hemen öncesinde yapılan statik esneme performansı ortalama %3,7 düşürdü, düşüş 60 sn ve üzeri esnemede daha belirgin.",
+   "ev": [
+    {
+     "t": "Konrad 2024 (meta-analiz)",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10980866/"
+    },
+    {
+     "t": "Behm 2016 (derleme)",
+     "u": "https://doi.org/10.1139/apnm-2015-0235"
+    },
+    {
+     "t": "Warneke 2024 (meta-analiz)",
+     "u": "https://doi.org/10.1186/s40798-024-00706-8"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "tx_atomic": {
+   "hyp": "Göğüs, ön omuz ve triseps için zorlu bir şınav; tükenişe yakın setlerle 8–15 tekrar yap.",
+   "str": "Diz çekişte kalçayı düşürmeden, gövdeyi sabit tut. Yarışta ritmi koru, form bozulunca kısa dur.",
+   "note": "Askıda şınav, normal şınava göre göğüs, ön omuz ve triseps EMG aktivitesini daha yüksek buldu; TRX şınavları gövde kaslarını da daha fazla çalıştırdı. Askıda diz çekiş (knee tuck), gövde egzersizleri arasında roll-out ve bodysaw'dan daha düşük karın aktivasyonu sağladı; atomik şınavın kendisi doğrudan incelenmedi.",
+   "ev": [
+    {
+     "t": "Snarr 2013",
+     "u": "https://doi.org/10.2478/hukin-2013-0070"
+    },
+    {
+     "t": "McGill 2014",
+     "u": "https://doi.org/10.1519/JSC.0b013e3182a99459"
+    },
+    {
+     "t": "Cugliari 2017",
+     "u": "https://doi.org/10.1515/hukin-2017-0023"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "tx_lowrow": {
+   "hyp": "Sırt kasları (latissimus, orta trapez, arka omuz) için iyi bir çekiş; ayakları ileri alıp gövdeyi yataya yaklaştırarak yükü artır, 8–15 tekrar.",
+   "str": "Kürek kemiklerini geriye çekerek çek, gövdeyi tahta gibi sabit tut. Yarışta hızlı ama tam hareket açıklığıyla tekrar et.",
+   "note": "Askıda inverted row, sabit barlı versiyona göre sırt kaslarında benzer, biseps'te daha düşük aktivasyon gösterdi. Derlemeye göre askı aparatı, inverted row'da diğer hareketlerin aksine ekstra kas aktivasyonu sağlamadı; TRX Ignite yarış formatı için hakemli çalışma bulunamadı.",
+   "ev": [
+    {
+     "t": "Snarr 2013",
+     "u": "https://www.asep.org/asep/asep/JEPonlineDecember2013_Snarr_Esco.pdf"
+    },
+    {
+     "t": "Aguilera-Castells 2020 (derleme)",
+     "u": "https://doi.org/10.1080/14763141.2018.1472293"
+    },
+    {
+     "t": "McGill 2014",
+     "u": "https://doi.org/10.1016/j.jelekin.2014.06.002"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "hx_run": {
+   "hyp": "Kas büyütmek için ana hareket değil; koşu hacmi arttıkça bacak kası ve kuvvet kazanımı biraz baskılanabilir.",
+   "str": "Yarışın en büyük payı koşu; haftalık dayanıklılık hacmini ve VO2max'ı önceliklendir, istasyon sonrası tempoya oturmayı (brick) ayrıca çalış.",
+   "note": "Simüle HYROX'ta koşu toplam sürenin yarısından fazlasını aldı ve VO2max ile dayanıklılık antrenman hacmi daha hızlı bitiş süresiyle ilişkiliydi. Ağırlık antrenmanını koşuyla birleştirmek (bisikletten farklı olarak) kas büyümesi ve kuvvet kazanımını azalttı.",
+   "ev": [
+    {
+     "t": "Brandt 2025",
+     "u": "https://doi.org/10.3389/fphys.2025.1519240"
+    },
+    {
+     "t": "Wilson 2012 (meta-analiz)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/22002517/"
+    },
+    {
+     "t": "Olcina 2019",
+     "u": "https://doi.org/10.3390/sports7050115"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "hx_skierg": {
+   "hyp": "Kas büyütmek için ana hareket değil; sırt, triceps ve karın için hafif bir hacim katkısı sağlar.",
+   "str": "1000 m'yi tempolu çek; 20 sn–3 dk'lık çift çekiş (double poling) aralıkları üst vücut gücünü ve verimini artırır.",
+   "note": "Çift çekiş ergometresinde 6 haftalık aralıklı antrenman üst vücut güç çıktısını ve iş verimini artırdı. SkiErg'de ölçülen VO2peak koşu bandından düşük çıktı; bu yüzden aerobik kapasitenin tek göstergesi değil.",
+   "ev": [
+    {
+     "t": "Nilsson 2004",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/15024663/"
+    },
+    {
+     "t": "Nelson 2021",
+     "u": "https://doi.org/10.53520/jen2021.103101"
+    },
+    {
+     "t": "Brandt 2025",
+     "u": "https://doi.org/10.3389/fphys.2025.1519240"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "hx_sledpush": {
+   "hyp": "Ağırlıklı itiş quadriceps ve kalça için ek iş sağlar ama eksantrik faz olmadığından ana hipertrofi hareketi değil.",
+   "str": "Ağır kızak itişi kısa mesafe ivmelenmeyi geliştirir; HYROX için yarış ağırlığına yakın, kısa ve kesintisiz itişler çalış.",
+   "note": "Lise sporcularında 8 haftalık kızak itişi her yükte 5–20 m sprint sürelerini iyileştirdi, en büyük kazanç ağır yükte görüldü. Meta-analiz direnç kızağının ivmelenmeyi geliştirdiğini ama yüksüz sprintten açıkça üstün olmadığını gösterdi; HYROX'taki ağır, yavaş itişi doğrudan inceleyen çalışma yok.",
+   "ev": [
+    {
+     "t": "Cahill 2020",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/31742795/"
+    },
+    {
+     "t": "Alcaraz 2018 (meta-analiz)",
+     "u": "https://doi.org/10.1007/s40279-018-0947-8"
+    },
+    {
+     "t": "Brandt 2025",
+     "u": "https://doi.org/10.3389/fphys.2025.1519240"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "hx_sledpull": {
+   "hyp": "Sırt, biceps ve kavrama için ek hacim sağlar; ama düzenli kas büyümesi için ana hareket değil.",
+   "str": "Halatı elden ele çekerken bacakla geriye yaslan ve ritmini koru; kavrama dayanıklılığını ayrıca çalış.",
+   "note": "Simüle HYROX'ta kızak çekme yaklaşık 2–3 dakika sürdü ve istasyon süreleri ölçülen kuvvet ya da kas kütlesiyle ilişkili bulunmadı. Halatla kızak çekmeyi doğrudan inceleyen hakemli çalışma yok; mevcut kızak kanıtı sprint amaçlı çekişlerden geliyor.",
+   "ev": [
+    {
+     "t": "Brandt 2025",
+     "u": "https://doi.org/10.3389/fphys.2025.1519240"
+    },
+    {
+     "t": "Alcaraz 2018 (meta-analiz)",
+     "u": "https://doi.org/10.1007/s40279-018-0947-8"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "hx_row": {
+   "hyp": "Kas büyütmek için ana hareket değil; tüm vücudu çalıştırır ama yük düşük kalır.",
+   "str": "1000 m'yi eşit tempoda çek; VO2max ve eşik gücünü geliştiren aralıklar performansı en çok taşır.",
+   "note": "Kürek ergometresi performansının en güçlü belirleyicileri VO2max ve tepe güç çıktısıydı, laktat eşiğindeki güç de güçlü ilişkiliydi. Kürek neredeyse tüm kasları kullanır ve ağırlıklı olarak yavaş kasılan liflere dayanır.",
+   "ev": [
+    {
+     "t": "Borges 2025 (sistematik derleme)",
+     "u": "https://doi.org/10.3390/jfmk10040437"
+    },
+    {
+     "t": "Volianitis 2020 (derleme)",
+     "u": "https://doi.org/10.1007/s00421-020-04429-y"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "hx_farmers": {
+   "hyp": "Ön kol, trapez ve kavrama için iyi bir ek iş; ağır ve 30–60 sn'lik taşımalar kullan.",
+   "str": "Dik gövdeyle, kısa ve hızlı adımlarla yürü; kavrama ve kalça yan kaslarını (abdüktörler) güçlendir.",
+   "note": "Çiftçi yürüyüşü deadlift'e göre daha dik gövde ve daha fazla dikey ve ileri itme kuvvetiyle yapıldı. Strongman sporcularında yükü taşımak kalça abdüktör kuvvetinin neredeyse tamamını gerektirdi, gövde kasları belden destek verdi.",
+   "ev": [
+    {
+     "t": "Winwood 2014",
+     "u": "https://doi.org/10.1260/1747-9541.9.5.1127"
+    },
+    {
+     "t": "McGill 2009",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/19528856/"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "hx_sandbaglunge": {
+   "hyp": "Kalça ve quadriceps için etkili; gövdeyi hafif öne eğmek kalça kaslarının payını artırır.",
+   "str": "100 m'yi düzenli ritimle bitir; bacak kas dayanıklılığını kum torbalı lunge setleriyle önceden hazırla.",
+   "note": "Lunge'da gövdenin öne eğilmesi kalça ekstansör yükünü ve gluteus maximus aktivitesini artırdı. İleri adımlı lunge, geri adımlıya göre kalça ve dizde daha büyük moment üretti.",
+   "ev": [
+    {
+     "t": "Farrokhi 2008",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/18591759/"
+    },
+    {
+     "t": "Comfort 2015",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/26418958/"
+    },
+    {
+     "t": "Brandt 2025",
+     "u": "https://doi.org/10.3389/fphys.2025.1519240"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "hx_wallball": {
+   "hyp": "Bacak ve omuz için dayanıklılık odaklı; kas büyütmekten çok yüksek tekrarda iş kapasitesini geliştirir.",
+   "str": "Setleri kısa bloklara böl ve topu hedefe bacak gücüyle gönder; yarış sonunda yorgun bacakla tekrar çalış.",
+   "note": "Simüle HYROX'ta son istasyon olan wall ball en yüksek nabız, laktat ve algılanan zorluğa yol açtı. 150 wall ball'lık Karen antrenmanından 24 saat sonra kas hasarı göstergesi CK yükseldi ve özellikle bacak toparlanması düştü, 48 saatte normale döndü.",
+   "ev": [
+    {
+     "t": "Brandt 2025",
+     "u": "https://doi.org/10.3389/fphys.2025.1519240"
+    },
+    {
+     "t": "Sousa Neto 2022",
+     "u": "https://doi.org/10.3389/fphys.2022.899652"
+    },
+    {
+     "t": "Villarroel López 2025 (derleme)",
+     "u": "https://doi.org/10.3390/jfmk10040365"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "tx_run1": {
+   "hyp": "Kas büyütmek için ana hareket değil; koşu hacmi arttıkça kas kazanımı biraz baskılanabilir.",
+   "str": "İlk 500 m'yi kontrollü başlat; sonraki istasyonlar için laktatı fazla yükseltme.",
+   "note": "TRX Ignite formatını inceleyen hakemli çalışma yok; benzer hibrit yarışlarda (HYROX) aerobik kapasite ve dayanıklılık hacmi performansla ilişkili bulundu. Koşu ile ağırlık antrenmanını birleştirmek kas büyümesini ve kuvvet kazanımını azaltabiliyor.",
+   "ev": [
+    {
+     "t": "Brandt 2025",
+     "u": "https://doi.org/10.3389/fphys.2025.1519240"
+    },
+    {
+     "t": "Wilson 2012 (meta-analiz)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/22002517/"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "tx_run2": {
+   "hyp": "Kas büyütmek için ana hareket değil; yorgunken koşu dayanıklılığı için çalışılır.",
+   "str": "Son 500 m'yi yorgun bacakla koşmayı antrenmanda prova et; istasyon sonrası kısa koşular (brick) ekle.",
+   "note": "Triatletlerde bisikletten hemen sonra koşulan mesafe azaldı ve adım boyu kısaldı. TRX Ignite'a özgü çalışma yok; bulgu önceden yorulmuş koşuya genelleme olarak alınmalı.",
+   "ev": [
+    {
+     "t": "Olcina 2019",
+     "u": "https://doi.org/10.3390/sports7050115"
+    },
+    {
+     "t": "Brandt 2025",
+     "u": "https://doi.org/10.3389/fphys.2025.1519240"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "tx_row": {
+   "hyp": "Kas büyütmek için ana hareket değil; tüm vücudu düşük yükte çalıştırır.",
+   "str": "Tek kişide 500 m'yi, çiftlerde 1000 m'yi ona göre tempoyu ayarla; tepe gücü ve VO2max'ı aralıklarla geliştir.",
+   "note": "Kürek ergometresi performansında VO2max ve tepe güç çıktısı en güçlü belirleyicilerdi. Kısa mesafeler için doğrudan TRX Ignite verisi yok.",
+   "ev": [
+    {
+     "t": "Borges 2025 (sistematik derleme)",
+     "u": "https://doi.org/10.3390/jfmk10040437"
+    },
+    {
+     "t": "Volianitis 2020 (derleme)",
+     "u": "https://doi.org/10.1007/s00421-020-04429-y"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "tx_ybelllunge": {
+   "hyp": "Kalça ve quadriceps için etkili; 8–15 tekrarlı setlerle kontrollü in.",
+   "str": "Geri lunge dizi ileri lunge'dan daha az yükler; yarış temposunda dengeyi bozmadan ritim tut.",
+   "note": "Geri adımlı lunge, ileri lunge'a göre daha düşük diz ve kalça momenti ve daha düşük yer tepki kuvveti üretti. Gövdeyi hafif öne eğmek kalça kaslarının aktivitesini artırdı.",
+   "ev": [
+    {
+     "t": "Comfort 2015",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/26418958/"
+    },
+    {
+     "t": "Farrokhi 2008",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/18591759/"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "tx_plankdrag": {
+   "hyp": "Karın kasları için dayanıklılık çalışması; kas büyütmek için ana hareket değil.",
+   "str": "Torbayı çekerken kalçayı sabit tut ve dönmeye izin verme; tek kol desteği oblikleri daha çok çalıştırır.",
+   "note": "Plank varyasyonlarında tek kol/bacak desteği (unilateral) ve askılı varyantlar karın yan kaslarının (oblikler) aktivitesini artırdı. Power Bag ile plank drag'i doğrudan inceleyen çalışma yok.",
+   "ev": [
+    {
+     "t": "Calatayud 2017",
+     "u": "https://doi.org/10.1097/PHM.0000000000000713"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "sf_pullup": {
+   "hyp": "Sırt ve kol için tam hareket açıklığıyla 6–12 tekrarlık setler yap; kolaylaşınca yelek veya ağırlık ekle. İnişi kontrollü yap, salınım (kipping) kullanma.",
+   "str": "Speedfit'te tekrar sayısı önemli: haftada birkaç kez submaksimal setlerle (maksimumun %50–70'i) toplam hacmi artır. Her tekrarda çene barı geçsin, kollar tam açılsın.",
+   "note": "Pronasyon (avuç dışa) tutuşu nötr tutuşa göre orta trapezi daha fazla çalıştırdı; ama genel kas aktivasyonu tutuş türleri arasında benzerdi. Chin-up ile lat pulldown kıyaslamasında barfiks biceps ve gövdeyi daha çok devreye soktu (bu çalışma avuç içe tutuşla yapıldı).",
+   "ev": [
+    {
+     "t": "Dickie 2017",
+     "u": "https://doi.org/10.1016/j.jelekin.2016.11.004"
+    },
+    {
+     "t": "Doma 2013",
+     "u": "https://doi.org/10.1080/14763141.2012.760204"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "sf_dips": {
+   "hyp": "Triseps ve göğüs için 6–15 tekrarlık setler; vücut ağırlığı kolaylaşınca kemerle ağırlık ekle. Omuz ağrın varsa omuzu aşırı geriye götürecek kadar derine inme.",
+   "str": "Yarışta hızlı ama tam tekrar yap: kollar üstte tam kilitlensin. Dayanıklılık için submaksimal setlerle hacmi kademeli artır.",
+   "note": "Paralel bar dip'te triseps tepe aktivasyonu bench dip'ten yüksek, ring dip'e benzer bulundu; bar dip bench dip'ten uygun bir ilerleme olarak önerildi. Bench dip ise daha büyük omuz ekstansiyonu gerektirdiği için omuz sorunu olanlarda dikkat istiyor.",
+   "ev": [
+    {
+     "t": "McKenzie 2022",
+     "u": "https://doi.org/10.3390/ijerph192013211"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "sf_lunge": {
+   "hyp": "Kalça ve bacak için bacak başına 8–12 adımlık setler; uzun adım kalçayı, kısa adım ön bacağı daha çok çalıştırır. Arka diz yere yakın insin.",
+   "str": "Tek bacak gücü ve denge için iyi; yarış yükünde (50/30 kg) ritmini koru ve gövdeyi dik tut. Bulgular tek ve çift bacak çalışmasının güç ve sürate benzer katkı yaptığını gösteriyor.",
+   "note": "Küçük bir EMG çalışmasında öne adımlı (lunge) çömelme, paralel squata göre gluteus maximus ve biceps femorisi daha fazla çalıştırdı. Başka bir çalışmada forward lunge'da en yüksek aktivite vastus kaslarında, ardından kalça kaslarında görüldü.",
+   "ev": [
+    {
+     "t": "Leporace 2012",
+     "u": "https://doi.org/10.1590/S1807-55092012000300004"
+    },
+    {
+     "t": "Muyor 2020",
+     "u": "https://doi.org/10.1371/journal.pone.0230841"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "sf_toestobar": {
+   "hyp": "Karın için etkili; kontrollü, salınımsız 8–15 tekrar yap. Henüz bara ulaşamıyorsan dizleri göğse çekerek (hanging knee raise) başla.",
+   "str": "Yarışta hız için ritmik kalça salınımı (kip) kullanılabilir, ama tutuş dayanıklılığı da sınırlayıcı olur. Barfiksle aynı istasyonda olduğundan önkol ve tutuşu ayrıca çalış.",
+   "note": "Toes to bar doğrudan incelenmemiş; yakın bir hareket olan askıda diz çekme (hanging knee-up), karın kaslarını (rektus abdominis, oblikler) en fazla çalıştıran egzersizler arasında bulundu. Bu hareket latissimus dorsiyi de belirgin şekilde devreye soktu.",
+   "ev": [
+    {
+     "t": "Escamilla 2006",
+     "u": "https://doi.org/10.1093/ptj/86.5.656"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "sf_devilpress": {
+   "hyp": "Kas büyütmek için ana hareket değil; tüm vücudu çalıştıran bir kondisyon hareketi. Hipertrofi için squat, press, row gibi temel hareketlere ağırlık ver.",
+   "str": "Kalp-solunum kondisyonu için güçlü bir uyarı; 20–40 sn'lik yüksek tempolu bloklarla çalış. Dambılı yerden başın üstüne tek akışta, kalça gücüyle kaldır.",
+   "note": "Devil press doğrudan çalışılmamış; burpee tabanlı yüksek yoğunluklu kalistenik interval, sprint bisiklet intervaline yakın oksijen tüketimi (~%78 VO2peak) ve nabız (~%85) yanıtı oluşturdu. CrossFit tarzı antrenmanlar üzerine yapılan sistematik derleme ise kanıtın henüz sınırlı olduğunu vurguluyor.",
+   "ev": [
+    {
+     "t": "Gist 2014",
+     "u": "https://doi.org/10.1519/JSC.0000000000000522"
+    },
+    {
+     "t": "Claudino 2018 (meta-analiz)",
+     "u": "https://doi.org/10.1186/s40798-018-0124-5"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "tx_powerclean": {
+   "hyp": "Kas büyütmek için ana hareket değil; asıl değeri patlayıcı güç. TRX Ignite'taki hafif, çok tekrarlı versiyon daha çok kondisyon çalışmasıdır.",
+   "str": "Güç için ağır yükle 1–5 tekrarlık setler ve hızlı kalça açılımı; hafif yükte bile tekniği bozma. Hafif yükle çok tekrar yarış dayanıklılığına, ağır yük sıçrama gücüne hizmet eder.",
+   "note": "Olimpik kaldırış antrenmanı dikey sıçramayı kontrole göre ~%7.7, klasik ağırlık antrenmanına göre ~%5.1 artırdı; pliometrikle benzer sonuç verdi. Bu meta-analizler ağır yükle yapılan çalışmalara dayanıyor; hafif, yüksek tekrarlı formatı doğrudan incelemiyor.",
+   "ev": [
+    {
+     "t": "Hackett 2016 (meta-analiz)",
+     "u": "https://doi.org/10.1136/bjsports-2015-094951"
+    },
+    {
+     "t": "Morris 2022 (meta-analiz)",
+     "u": "https://doi.org/10.1007/s40279-021-01627-2"
+    }
+   ],
+   "updated": "2026-11-03"
+  },
+  "tx_squatpress": {
+   "hyp": "Hafif yükte (4.5/8 kg) kas büyütmek için ana hareket değil; bacak ve omuzu birlikte çalıştıran bir kondisyon hareketi. Hipertrofi için squat ve overhead press'i ayrı ve daha ağır yap.",
+   "str": "Squattan kalkışın hızını pressi itmek için kullan; tek akışta, nefes ritmini koruyarak tekrar yap. Thruster dayanıklılığı karma kondisyon yarışlarında belirleyici olabilir.",
+   "note": "CrossFit 'Fran' antrenmanında (thruster + barfiks) performansla en güçlü ilişki maksimum thruster tekrar sayısında bulundu. Çalışma halter barla (43 kg) yapıldı; YBell'li hafif versiyonu doğrudan incelemiyor.",
+   "ev": [
+    {
+     "t": "Leitão 2021",
+     "u": "https://doi.org/10.3390/ijerph18084070"
+    }
+   ],
+   "updated": "2026-11-03"
   }
  }
 }
